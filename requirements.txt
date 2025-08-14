@@ -1,14 +1,9 @@
 fastapi
 uvicorn[standard]
-pydantic
 transformers
 torch
 torchvision
-python-multipart
 Pillow
-accelerate
-scikit-learn
-requests
 pyngrok
-nest-asyncio
-ipyleaflet
+numpy
+python-multipart
